@@ -19,6 +19,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/jayanth7-dev/random-word-maker.git
+
 cd random-word-maker
 
 
